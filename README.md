@@ -6,4 +6,4 @@ This repo contains the coding and HTML file for the UFO Sightings website. The w
 
 ### Recommendation
 
-Out of all the sightings that have been recorded, there might be many of does that the observer might have taken a picture or video of the object. There could be an extra parameter included in the list where each of the incidents can have a yes or no for recordings. If there is any recording of the incident a link to the picture can be included inthe list and users can filter by yes or no there is available recorded data and they can enjoy the pictures in the website.
+Out of all the sightings that have been recorded, there might be many of does that the observer might have taken a picture or video of the object. There could be an extra parameter included in the list where each of the incidents can have a yes or no for recordings. If there is any recording of the incident a link to the picture can be included inthe list and users can filter by yes or no there is available recorded data. The user can enjoy the pictures in the website too.
